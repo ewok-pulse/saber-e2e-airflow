@@ -1,6 +1,6 @@
 
 #
-# This constraints file was automatically generated on 2026-05-21T10:11:48.603664
+# This constraints file was automatically generated on 2026-05-22T03:03:07.584973
 # via `uv pip install --resolution highest` for the "main" branch of Airflow.
 # This variant of constraints install uses the HEAD of the branch version for 'apache-airflow' but installs
 # the providers from PIP-released packages at the moment of the constraint generation.
@@ -538,7 +538,7 @@ python-http-client==3.3.7
 python-jenkins==1.8.3
 python-keycloak==7.1.1
 python-ldap==3.4.5
-python-multipart==0.0.28
+python-multipart==0.0.29
 python-slugify==8.0.4
 python-telegram-bot==22.7
 python3-saml==1.16.0
